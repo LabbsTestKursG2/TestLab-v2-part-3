@@ -56,12 +56,12 @@ namespace TestLab_v2_KevinLarsson
                 var palindromedigits = Math.Ceiling(Math.Log10(palindromeNumber));
                 if (palindromedigits > 3 || 3 > palindromedigits)
                 {
-                    throw new ApplicationException("The requested palindromenumber are More or Less then three digits.");
+                    throw new ApplicationException("The requested palindromenumber are More or Less then three digits");
                 }
             }
             else
             {
-                throw new ApplicationException("Input digits are More or Less then three digits.");
+                throw new ApplicationException("Input digits are More or Less then three digits");
             }
 
             return palindromeNumber;
