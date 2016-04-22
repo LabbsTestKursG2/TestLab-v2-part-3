@@ -1,0 +1,8 @@
+c:\users\kevin\documents\visual studio 2015\Projects\TestLab-v2-KevinLarsson\UnitTestProjectStrCount\obj\Debug\UnitTestProjectStrCount.csprojResolveAssemblyReference.cache
+C:\Users\kevin\Documents\Visual Studio 2015\Projects\TestLab-v2-KevinLarsson\UnitTestProjectStrCount\bin\Debug\UnitTestProjectStrCount.dll
+C:\Users\kevin\Documents\Visual Studio 2015\Projects\TestLab-v2-KevinLarsson\UnitTestProjectStrCount\bin\Debug\UnitTestProjectStrCount.pdb
+C:\Users\kevin\Documents\Visual Studio 2015\Projects\TestLab-v2-KevinLarsson\UnitTestProjectStrCount\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\kevin\Documents\Visual Studio 2015\Projects\TestLab-v2-KevinLarsson\UnitTestProjectStrCount\bin\Debug\TestLab-v2-KevinLarsson.exe
+C:\Users\kevin\Documents\Visual Studio 2015\Projects\TestLab-v2-KevinLarsson\UnitTestProjectStrCount\bin\Debug\TestLab-v2-KevinLarsson.pdb
+C:\Users\kevin\Documents\Visual Studio 2015\Projects\TestLab-v2-KevinLarsson\UnitTestProjectStrCount\obj\Debug\UnitTestProjectStrCount.dll
+C:\Users\kevin\Documents\Visual Studio 2015\Projects\TestLab-v2-KevinLarsson\UnitTestProjectStrCount\obj\Debug\UnitTestProjectStrCount.pdb
