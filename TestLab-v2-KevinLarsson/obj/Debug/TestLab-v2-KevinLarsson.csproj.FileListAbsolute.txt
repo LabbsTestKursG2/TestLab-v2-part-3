@@ -4,3 +4,6 @@ c:\users\kevin\documents\visual studio 2015\Projects\TestLab-v2-KevinLarsson\Tes
 c:\users\kevin\documents\visual studio 2015\Projects\TestLab-v2-KevinLarsson\TestLab-v2-KevinLarsson\obj\Debug\TestLab-v2-KevinLarsson.csprojResolveAssemblyReference.cache
 c:\users\kevin\documents\visual studio 2015\Projects\TestLab-v2-KevinLarsson\TestLab-v2-KevinLarsson\obj\Debug\TestLab-v2-KevinLarsson.exe
 c:\users\kevin\documents\visual studio 2015\Projects\TestLab-v2-KevinLarsson\TestLab-v2-KevinLarsson\obj\Debug\TestLab-v2-KevinLarsson.pdb
+C:\Users\kevin\Documents\Visual Studio 2015\Projects\TestLab-v2-part-3\TestLab-v2-KevinLarsson\bin\Debug\TestLab-v2-KevinLarsson.exe.config
+C:\Users\kevin\Documents\Visual Studio 2015\Projects\TestLab-v2-part-3\TestLab-v2-KevinLarsson\obj\Debug\TestLab-v2-KevinLarsson.exe
+C:\Users\kevin\Documents\Visual Studio 2015\Projects\TestLab-v2-part-3\TestLab-v2-KevinLarsson\obj\Debug\TestLab-v2-KevinLarsson.pdb
